@@ -1,10 +1,27 @@
+# Çalışma 2 (28.03.2022)
+- [ ] Nokta yükün oluşturduğu elektrik alani hesapla.
+- [ ] İki nokta yükün oluşturduğu elektrik alanı hesapla.
+  
+## <span style="color:red">Yapılacaklar</span>.
+- [ ] Tek yükün oluşturduğu elektrik alanı çiz.
+- [ ] İki yükün oluşturduğu elektrik alan fonksiyonunu yaz.
+- [ ] İki yük için elektrik alan vektörünü çiz.
+- [ ] Üç veya daha fazla noktasal yükün elektrik alanını çiz.
+
+## Örnekler
+1. [Matplolib'de vektör çizme](https://www.geeksforgeeks.org/quiver-plot-in-matplotlib/)
+2. [Matplolib'de alan çizme](https://matplotlib.org/2.0.2/examples/pylab_examples/quiver_demo.html)
+4. [Elektrik Alan Çizimi](https://stackoverflow.com/questions/53275867/electric-field-lines)
+3. [~~2 ve daha fazla yükün oluşturduğu elektrik alan Çizimi~~](https://scipython.com/blog/visualizing-a-vector-field-with-matplotlib/)
+
+
 # Çalışma 1 (21.03.2022)
-- [ ] Visual Studio Code kullanımı
-- [ ] Git kullanımı
-- [ ] Bazı kod yazma standartları ve markdown
-- [ ] Python fonksiyonlar ve classlar
-- [ ] Hazır kod kullanmadan matris çarpımı
-- [ ] Projectile-Motion_taygun.py dosyasının adımlara bakmak.
+- [x] Visual Studio Code kullanımı
+- [x] Git kullanımı
+- [x] Bazı kod yazma standartları ve markdown
+- [x] Python fonksiyonlar ve classlar
+- [x] Hazır kod kullanmadan matris çarpımı
+- [x] Projectile-Motion_taygun.py dosyasının adımlara bakmak.
 
 ## Naming Convention ve Markdown
 1. [Wikipedia-naming-convention](https://en.wikipedia.org/wiki/Naming_convention_(programming)#Python_and_Ruby)
