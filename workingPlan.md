@@ -1,3 +1,8 @@
+# Çalışma 3 (01.04.2022)
+
+## <span style="color:red">Yapılacaklar</span>.
+- [ ] ????
+
 # Çalışma 2 (28.03.2022)
 - [ ] Nokta yükün oluşturduğu elektrik alani hesapla.
 - [ ] İki nokta yükün oluşturduğu elektrik alanı hesapla.
@@ -7,6 +12,7 @@
 - [ ] İki yükün oluşturduğu elektrik alan fonksiyonunu yaz.
 - [ ] İki yük için elektrik alan vektörünü çiz.
 - [ ] Üç veya daha fazla noktasal yükün elektrik alanını çiz.
+- [ ] Matrix determinantını al.
 
 ## Örnekler
 1. [Matplolib'de vektör çizme](https://www.geeksforgeeks.org/quiver-plot-in-matplotlib/)

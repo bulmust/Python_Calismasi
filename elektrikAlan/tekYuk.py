@@ -40,16 +40,14 @@ def elektrikAlan_NoktaKaynak_N_C(xKaynak_m, yKaynak_m, kaynakYukunIsareti, x_m, 
     return elektrikAlanVec_N_C
 
 xKaynak_m = 0; yKaynak_m = 0
-kaynakYukunIsareti= 1
+kaynakYukunIsareti= 2
 
 print("Kaynak Noktasi [m]: ( x , y ) = (", xKaynak_m, ",", yKaynak_m, ")")
 print("Yukun isareti     : ", kaynakYukunIsareti)
 print('-----------------------------------------------------')
 print("Elektrik Alanin Olculdugu Nokta (x,y) [m]: || Elektrik Alanin Buyuklugu [N/C] || Yonu [\hat{r}]:")
 
-for it_x in range(0, 5): # range(1, 10)
-    for it_y in range(1, 5):
+for it_x in range(1, 5): # range(1, 10)
+    for it_y in range(0, 5):
         temp = elektrikAlan_NoktaKaynak_N_C(xKaynak_m, yKaynak_m, kaynakYukunIsareti, it_x, it_y)
-        print('(%.2f,%2.f) ' %(it_x, it_y),'|| %1.2E ' % temp[0], '|| %1.2E ' % temp[1] )
-
-#! (1,2) ile (2,1) ayni mi? Hesapla!
+        print('(%.2f, %.2f) ' %(it_x, it_y),'|| %1.2E ' % temp[0], '|| %1.2E ' % temp[1] )
