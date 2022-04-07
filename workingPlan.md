@@ -8,11 +8,11 @@
 - [ ] İki nokta yükün oluşturduğu elektrik alanı hesapla.
   
 ## <span style="color:red">Yapılacaklar</span>.
-- [ ] Tek yükün oluşturduğu elektrik alanı çiz.
-- [ ] İki yükün oluşturduğu elektrik alan fonksiyonunu yaz.
-- [ ] İki yük için elektrik alan vektörünü çiz.
-- [ ] Üç veya daha fazla noktasal yükün elektrik alanını çiz.
-- [ ] Matrix determinantını al.
+- [x] Tek yükün oluşturduğu elektrik alanı çiz.
+- [x] İki yükün oluşturduğu elektrik alan fonksiyonunu yaz.
+- [x] İki yük için elektrik alan vektörünü çiz.
+- [x] Üç veya daha fazla noktasal yükün elektrik alanını çiz.
+- [] Matrix determinantını al.
 
 ## Örnekler
 1. [Matplolib'de vektör çizme](https://www.geeksforgeeks.org/quiver-plot-in-matplotlib/)
