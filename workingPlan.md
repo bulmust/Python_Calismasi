@@ -1,8 +1,8 @@
 # Çalışma 3 (01.04.2022)
-
+- **Yapılmadı.**
 ## <span style="color:red">Yapılacaklar</span>
 
-- [ ] Fonk1: n boyutlu matris oluşturan bir fonksiyon yaz.
+- [x] Fonk1: n boyutlu matris oluşturan bir fonksiyon yaz.
 - [ ] Fonk2: birim matris mi diye kontrol et
 - [ ] Fonk3: 2 matris çarp. Birim matris ise çarpma
 - [ ] Fonk4: Matris kare mi?
